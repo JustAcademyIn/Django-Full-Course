@@ -1,5 +1,5 @@
 # Django Full Course
-## [Django Full Course]
+## [Django Full Course](https://www.justacademy.co/course-detail/django-training)
 Learning Django equips you with the skills needed to build robust and scalable web applications efficiently. If you are looking for a django full course you can get it from JustAcademy. With Django's powerful framework, you can streamline development processes and create feature-rich websites with ease. Mastering Django opens doors to lucrative career opportunities in web development, allowing you to stay competitive in the ever-evolving tech industry and contribute to exciting projects worldwide.
 
 ### To Download Our Brochure [Click Here](https://www.justacademy.co/download-brochure-for-free)
